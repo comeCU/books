@@ -8,11 +8,11 @@
 
 [MVC设计模式](#MVC设计模式)
 
-​		[M（model层）](#M（model层）)
+> [M（model层）](#M（model层）)
 
-​		[V（view层）](#V（view层）)
+> [V（view层）](#V（view层）)
 
-​		[C（controller 层）](#C（controller 层）)
+> [C（controller 层）](#C（controller 层）)
 
 [注册登录模块](#注册登录模块)
 
