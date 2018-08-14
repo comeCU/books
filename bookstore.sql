@@ -7,7 +7,7 @@
 #
 # Source for table "books"
 #
-create database jdbc
+create database jdbc;
 use jdbc;
 
 DROP TABLE IF EXISTS `books`;
